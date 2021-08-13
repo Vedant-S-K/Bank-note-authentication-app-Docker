@@ -9,7 +9,7 @@ Accuracy : 99%
 
 # Main Goal of this Project
 
-The main goal behind this project is to learn docker and implement docker skills. I have developed a docker image of my app which I created using flask and then deployed the docker image to heroku.
+The main goal behind this project is to learn docker and showcase docker skills. I have developed a docker image of my app which I created using flask and then deployed the docker image to heroku.
 
 # Docker
 
