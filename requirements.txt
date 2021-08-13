@@ -8,3 +8,4 @@ numpy==1.11.0
 scipy==0.17.0
 scikit-learn==0.22.1
 pandas==0.19
+Cython==0.28.5
